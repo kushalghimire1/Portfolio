@@ -5,12 +5,14 @@ AOS.init({
 
 new Typed("#typed-text", {
     strings: [
-        "Full Stack Developer",
-        "WordPress Developer",
-        "UI/UX Designer",
-        "Frontend Developer",
-        "Web Page Developer",
-        "Git and Github Uploader"
+        "Full Stack Developer 🚀",
+        "UI/UX Designer 🎨",
+        "WordPress Expert ⚡",
+        "Frontend Engineer 💻",
+        "Creative Problem Solver 🔥",
+         "Git and Github Uploader",
+         "Web Page Developer",
+        "Future Software Engineer 🌍"
     ],
     typeSpeed: 120,      // Faster typing
     backSpeed: 80,       // Faster deleting
